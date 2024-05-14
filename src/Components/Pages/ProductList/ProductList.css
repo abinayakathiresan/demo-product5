@@ -1,0 +1,6 @@
+.product-wrapper{
+    display:flex;
+}
+.product-wrapper div {
+    flex-basis: 1000px;
+}

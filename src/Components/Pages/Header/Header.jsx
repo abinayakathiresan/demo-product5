@@ -14,6 +14,16 @@ const Header = ()=> {
                 Product List
               </Link>
             </li>
+            <li>
+              <Link to="/userList" >
+                User List
+              </Link>
+            </li>
+            <li>
+              <Link to="/addUser" >
+                Add User
+              </Link>
+            </li>
           </ul> 
     </div>
   )
